@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  name: 'InputText'
+  name: 'Submit'
 }
 </script>
